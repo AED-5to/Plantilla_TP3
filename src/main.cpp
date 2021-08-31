@@ -119,18 +119,19 @@
 
 Respetar este pin out.
 
-PD4 -> BOTON 1 
-PD5 -> BOTON 2 
-PD6 -> BOTON 3 
-PD7 -> BOTON 4
+PC0 -> BOTON 1 
+PC1 -> BOTON 2 
+PC2 -> BOTON 3 
+PC3 -> BOTON 4
 
 PD2 -> LED 1   
 PD3 -> LED 2 
-PB0 -> LED 3
-PB1 -> LED 4 
-PB2 -> LED 5 
-PB3 -> LED 6
-PB4 -> LED 7
+PD4 -> LED 3
+PD5 -> LED 4 
+PD6 -> LED 5 
+PD7 -> LED 6
+PB0 -> LED 7
+PB1 -> LED 8
 
 */
 
